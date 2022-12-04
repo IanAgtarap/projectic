@@ -1,0 +1,2 @@
+# projectic
+MERN STACK PROJECT
